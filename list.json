@@ -2,11 +2,12 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": [
-        ".sagernet.org",
+      "domain": [
+        "sagernet.org",
         "bitcointalk.org",
-        ".bitaps.com",
-        ".blockchain.com"
+        "bitaps.com",
+        "blockchain.com",
+        "microsoft.com"
       ]
     }
   ]
