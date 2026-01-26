@@ -3,17 +3,17 @@
   "rules": [
     {
       "domain_suffix": [
-        "sagernet.org",
-        "bitcointalk.org",
-        "bitaps.com",
-        "blockchain.com",
-        "bitcoin.org",
-        "bits.media",
-        "stratumprotocol.org",
-        "bitcoinwiki.org",
-        "vsassets.io",
-        "vscode-cdn.net",
-        "microsoft.com"
+        ".sagernet.org",
+        ".bitcointalk.org",
+        ".bitaps.com",
+        ".blockchain.com",
+        ".bitcoin.org",
+        ".bits.media",
+        ".stratumprotocol.org",
+        ".bitcoinwiki.org",
+        ".vsassets.io",
+        ".vscode-cdn.net",
+        ".microsoft.com"
         
       ]
     }
