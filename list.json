@@ -2,8 +2,8 @@
   "version": 3,
   "rules": [
     {
-      "domain": [
-        "sing-box.sagernet.org",
+      "domain_suffix": [
+        "sagernet.org",
         "bitcointalk.org",
         "bitaps.com",
         "blockchain.com",
