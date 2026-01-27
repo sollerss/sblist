@@ -2,22 +2,20 @@
   "version": 3,
   "rules": [
     {
-      "domain_suffix": [
-        ".sagernet.org",
-        ".bitcointalk.org",
-        ".bitaps.com",
-        ".blockchain.com",
-        ".bitcoin.org",
-        ".bits.media",
-        ".stratumprotocol.org",
-        ".bitcoinwiki.org",
-        ".vsassets.io",
-        ".vscode-cdn.net",
-        ".microsoft.com",
-        ".visualstudio.com",
-        ".themoviedb.org",
-        ".tmdb.org",
-        ".nicehash.com"
+      "domain": [
+        "sagernet.org",
+        "bitcointalk.org",
+        "bitaps.com",
+        "blockchain.com",
+        "bitcoin.org",
+        "bits.media",
+        "stratumprotocol.org",
+        "bitcoinwiki.org",
+        "microsoft.com",
+        "visualstudio.com",
+        "themoviedb.org",
+        "tmdb.org",
+        "nicehash.com"
       ]
     }
   ]
