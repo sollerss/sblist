@@ -1,7 +1,4 @@
-{
-  "rules": [
-    {
-      "domain_suffix": [
+"domain_suffix": [
         "sagernet.org",
         "bitcointalk.org",
         "bitaps.com",
@@ -15,7 +12,4 @@
         "themoviedb.org",
         "tmdb.org",
         "nicehash.com"
-      ]
-    }
-  ]
-}
+]
