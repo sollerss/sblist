@@ -1,8 +1,8 @@
 {
-  "version": 4,
+  "version": 3,
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "sagernet.org",
         "bitcointalk.org",
         "bitaps.com",
